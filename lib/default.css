@@ -701,7 +701,7 @@ header nav .bars {
 		font-size: 3vw;
 		left: -1vw;
 	}
-	
+
 }
 
 .bottom-btn {
@@ -870,7 +870,7 @@ header nav .bars {
 	position: relative;
 }
 .services .uk-container {
-	
+
 }
 .services .uk-container .item {
 	padding-bottom: 100px;
@@ -884,7 +884,7 @@ header nav .bars {
 .services .uk-container .item svg {
 	height: 100px;
 	margin-bottom: 20px;
-	
+
 }
 .services .uk-container .item h2 {
 	font-size: 36pt;
@@ -945,7 +945,7 @@ header nav .bars {
 	top: 0;
 }
 .services .service-grid .service-item:hover {
-	
+
 }
 .services .service-grid .service-item .ins {
 	display: block;
@@ -1036,7 +1036,7 @@ header nav .bars {
 }
 @media (max-width: 767px) {
 	.services .service-grid .service-item .ins {
-		
+
 	}
 	.services .service-grid .service-item:hover .ins {
 		border: 1px solid #edf1f6;
@@ -1175,7 +1175,7 @@ header nav .bars {
 	display: block;
 }
 .hot .uk-container .hot-grid .hot-item .ins .button-first span {
-	
+
 }
 .hot .uk-container .hot-grid .hot-item .ins .uk-button {
 	margin: 0 auto;
@@ -1205,14 +1205,14 @@ header nav .bars {
 		top: 0;
 	}
 	.hot .uk-container .hot-grid .hot-item .ins {
-		
+
 	}
 	.hot .uk-container .hot-grid .hot-item:hover .ins {
 		border: 1px solid #ccc;
 		box-shadow: 0px 0px 10px rgba(50,50,50,.05);
 	}
 	.hot .uk-container .hot-grid .hot-item .ins hr {
-		
+
 	}
 	.hot .uk-container .hot-grid .hot-item:hover .ins hr {
 		width: 20%;
@@ -1358,7 +1358,7 @@ header nav .bars {
 	padding-top: 50px;
 	margin-top: 50px;
 	padding-bottom: 100px;
-	
+
 }
 @media (max-width: 767px) {
 	.our-cases .case-grid .case-item {
@@ -1395,7 +1395,7 @@ header nav .bars {
 	font-size: 24pt;
 }
 .feedback .feedback-owl {
-	
+
 }
 .feedback .feedback-owl .item {
 	display: block;
@@ -1635,7 +1635,7 @@ header nav .bars {
 .cta .uk-container .grid section:last-child .morph-button,
 .cta .uk-container .grid section:last-child .morph-button > button {
 	background: rgba(255,255,255,0);
-	
+
 	color: #fff;
 	font-size: 10pt;
 	width: 200px;
@@ -1663,7 +1663,7 @@ header nav .bars {
 	}
 }
 .cta .uk-container .grid section:last-child .morph-button > button span {
-	
+
 	width: 100%;
 	display: inline-block;
 }
@@ -1845,7 +1845,7 @@ footer .right ol li a:hover {
 		display: table-header-group;
 		border: 1px solid blue;
 	}
-	
+
 	footer .right ul {
 		float: none;
 	}
@@ -1900,7 +1900,7 @@ footer .right ol li a:hover {
 	padding-left: 0;
 	padding-right: 0;
 	width: 35.6px !important;
-	
+
 	/* Override inline style rule */
 	-webkit-transition: color 0.2s 0s, width .3s 0.2s;
 	-moz-transition: color 0.2s 0s, width .3s 0.2s;
@@ -1940,7 +1940,7 @@ footer .right ol li a:hover {
 	transition: all 0.5s cubic-bezier(.65, .05, .36, 1);
 }
 .fancybox-morphing.whited {
-	
+
 }
 .fancybox-morphing .fancybox-bg {
 	background: #ae006e;
@@ -1965,7 +1965,7 @@ footer .right ol li a:hover {
 	color: #fff;
 }
 
-.fancybox-morphing .fancybox-button--close::after, 
+.fancybox-morphing .fancybox-button--close::after,
 .fancybox-morphing .fancybox-button--close::before {
 	height: 1.55px;
 	width: 22px;
@@ -2228,10 +2228,10 @@ footer .right ol li a:hover {
 }
 
 .data {
-	
+
 }
 #brief-content .data label {
-	
+
 }
 #brief-content .data input {
 	width: 95%;
@@ -2291,7 +2291,7 @@ footer .right ol li a:hover {
 	padding: 30px 0;
 }
 .contacts .c {
-	
+
 }
 .contacts .c h1 {
 	font-size: 35pt;
@@ -2338,16 +2338,16 @@ footer .right ol li a:hover {
 	padding-bottom: 50px;
 }
 .letter .c {
-	
+
 }
 .letter .c .uk-grid {
-	
+
 }
 .letter .c .uk-grid .letter-form {
-	
+
 }
 .letter .c .uk-grid .letter-form form {
-	
+
 }
 .letter .c .uk-grid .letter-form form label {
 	font-weight: 400;
@@ -2498,13 +2498,13 @@ footer .right ol li a:hover {
 	color: #ccc;
 }
 .project .c .uk-breadcrumb li a:hover {
-	
+
 }
 .project .c .uk-breadcrumb li span {
 	color: #555;
 }
 .project .c .uk-grid {
-	
+
 }
 .project .c .uk-grid .content {
 	display: block;
@@ -2531,7 +2531,7 @@ footer .right ol li a:hover {
 	margin: 0 auto;
 }
 .project .c .uk-grid .content video {
-	
+
 }
 .project .c .uk-grid .content .thanks {
 	margin-top: 100px;
